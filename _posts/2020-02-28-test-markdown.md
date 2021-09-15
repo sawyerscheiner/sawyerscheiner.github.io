@@ -3,7 +3,7 @@ layout: post
 title: app development
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
+gh-badge: [yes, yes, yes]
 tags: [test]
 comments: true
 ---
