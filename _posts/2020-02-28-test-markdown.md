@@ -5,7 +5,7 @@ subtitle: Hi there
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [yes]
-comments: true
+comments: 我有冰淇淋
 ---
 
 Messing around hehe
