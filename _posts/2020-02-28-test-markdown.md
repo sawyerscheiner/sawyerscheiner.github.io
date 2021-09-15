@@ -13,7 +13,8 @@ I am sawyer
 
 **Here is some bold text**
 
-**Note:** yo check this out i can make notifications
+{: .box-note}
+**yo:** check this out i can make notifications
 
 ## Here is a secondary heading
 
