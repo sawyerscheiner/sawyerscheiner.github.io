@@ -1,7 +1,7 @@
 ---
 layout: post
-title: app development
-subtitle: Each post also has a subtitle
+title: sawyer
+subtitle: sawyers subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [button]
 tags: [test]
