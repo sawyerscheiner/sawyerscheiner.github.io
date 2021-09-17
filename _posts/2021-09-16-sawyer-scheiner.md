@@ -7,6 +7,7 @@ thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags:
 ---
+[Click Me](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 # Hello!
 My name is Sawyer Scheiner. I am in 9th grade at Horace Mann School. 
