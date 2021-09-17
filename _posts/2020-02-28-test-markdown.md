@@ -8,7 +8,7 @@ tags: [yes]
 comments: 我有冰淇淋
 ---
 
-Messing around hehe
+[Click me!](https://iwontuse.github.io)
 
 ## 我有冰淇淋
 
