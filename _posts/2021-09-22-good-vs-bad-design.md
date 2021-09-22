@@ -2,7 +2,7 @@
 layout: post
 title: Good vs Bad Design
 subtitle: Sawyer Scheiner
-cover-img: /assets/img/path.jpg
+cover-img: https://mir-s3-cdn-cf.behance.net/project_modules/fs/39564c28974781.55dc8afbc76e7.png
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: Homework
