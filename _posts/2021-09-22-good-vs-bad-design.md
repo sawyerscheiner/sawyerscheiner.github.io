@@ -18,6 +18,12 @@ Google Chrome also has its flaws though, and this is where bad design comes in.
 Bad design is some program or machine that does not work well, does not look good, and/or is not easy or fun to use. An example of a bad design quality is how Chrome tends to take up quite a bit of memory, at least compared to some other browsers. 
 This can be problematic for people with less powerful computers, as it can take up a significant amount of the computer's resources.
 
+## Examples of Good and Bad Design
+---
+Good Design: 
+Bad Design:
+---
+
 
 
 
