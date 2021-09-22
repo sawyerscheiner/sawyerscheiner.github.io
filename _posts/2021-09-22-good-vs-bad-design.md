@@ -20,8 +20,8 @@ This can be problematic for people with less powerful computers, as it can take 
 
 ## Examples of Good and Bad Design
 ---
-Good Design: 
-Bad Design:
+Good Design: yes
+Bad Design: no
 ---
 
 
