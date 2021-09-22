@@ -19,10 +19,11 @@ Bad design is some program or machine that does not work well, does not look goo
 This can be problematic for people with less powerful computers, as it can take up a significant amount of the computer's resources.
 
 ## Examples of Good and Bad Design
----
-Good Design: yes
-Bad Design: no
----
+
+| Good Design | Bad Design |
+| ----------- | ---------- |
+| Supercars brands like ferrari: | Paper juice and milk cartons: |
+* 
 
 
 
