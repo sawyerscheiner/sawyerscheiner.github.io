@@ -26,6 +26,7 @@ This can be problematic for people with less powerful computers, as it can take 
 | Aerodynamic bodies for less resistance | Hard to open |
 | Low weight, lots of power = very fast | Easy to tear when opening |
 | Cool-looking bodywork that attracts eyes | Not closable after being opened |
+| ![Ferrari](https://www.topgear.com/sites/default/files/cars-car/image/2015/02/buyers_guide_-_laf_-_front.jpg) | ![Juice/Milk Carton](https://jerz.setonhill.edu/wp-content/uploads/2015/08/11373852_759037530885391_855704319_n.jpg) |
 
 
 
