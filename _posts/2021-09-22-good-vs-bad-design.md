@@ -22,10 +22,11 @@ This can be problematic for people with less powerful computers, as it can take 
 
 | Good Design | Bad Design |
 | ----------- | ---------- |
-| Supercars like Ferrari and Lamborghini: | Paper juice and milk cartons: |
-| * Aerodynamic bodies for less resistance | * Hard to open |
-| * Low weight, lots of power = very fast | * Easy to tear when opening |
-| * Cool-looking bodywork that attracts eyes | * Not closable after being opened |
+| **Supercars like Ferrari and Lamborghini:** | **Paper juice and milk cartons:** |
+| Aerodynamic bodies for less resistance | Hard to open |
+| Low weight, lots of power = very fast | Easy to tear when opening |
+| Cool-looking bodywork that attracts eyes | Not closable after being opened |
+
 
 
 
