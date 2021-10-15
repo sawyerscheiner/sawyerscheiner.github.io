@@ -3,7 +3,7 @@ layout: post
 title: Fly On the Wall Lab
 subtitle: Sawyer Scheiner
 cover-img: https://read.macmillan.com/wp-content/uploads/2020/02/titletreatment_flyonthewall.png
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: https://www.openpr.com/wiki/images/192-400x300_4912
 share-img: /assets/img/path.jpg
 tags: Lab
 ---
