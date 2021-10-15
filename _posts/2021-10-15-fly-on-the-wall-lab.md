@@ -23,6 +23,7 @@ In this lab, we acted as if we were a "fly on a wall," observing daily life arou
 - In the library: people sitting quietly studying, people talking, people on their phones, people playing videogames, etc.
 
 ### Analysis:
-I think that due to the amount of activities set up outside such as sports, the school clearly values student's happiness and allows for people to have fun during frees, lunch, or any other free time. Also, there are countless places inside and outside for students to do homework or even just sit with friends like the library, the bleachers, or the cafeteria. I think that the school wants to give us the freedom to be able to work and chill where we want, even across the whole campus. 
-
+I think that due to the amount of activities set up outside such as sports, the school clearly values student's happiness and allows for people to have fun during frees, lunch, or any other free time. Also, there are countless places inside and outside for students to do homework or even just sit with friends like the library, the bleachers, or the cafeteria. I think that the school wants to give us the freedom to be able to work and chill where we want, even across the whole campus.
+Even in between classes, when the stairways and hallways are the busiest, they are generally navigable and it is easy to get to where you want to go. They may seem crowded, but the school has put plenty of effort into making sure that we are not overcrowded and have ample space to move around.
+In addition to that, the school also puts effort into creating diverse spaces for all kinds of people. Example: the library, where you can go if you want to do homework or chill with your friends, or just to sit down, study, or even watch a tv show. 
 
