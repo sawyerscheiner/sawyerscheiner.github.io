@@ -27,3 +27,8 @@ I think that due to the amount of activities set up outside such as sports, the 
 Even in between classes, when the stairways and hallways are the busiest, they are generally navigable and it is easy to get to where you want to go. They may seem crowded, but the school has put plenty of effort into making sure that we are not overcrowded and have ample space to move around.
 In addition to that, the school also puts effort into creating diverse spaces for all kinds of people. Example: the library, where you can go if you want to do homework or chill with your friends, or just to sit down, study, or even watch a tv show. 
 
+### Process:
+During this process of making these observations and studying them, I worked with Luke Peng([his website](https://lukepeng123.github.io/)) during class to observe the school and take observations about what we saw. We tried walking through the halls and looking around, but we did not see much except classrooms and empty hallways. We went outside onto the field where we saw plenty of people playing sports and studying during frees. I think something that could have gone a little better was the observing process, as we kind of just wrote down things we saw and could have been more structured. Nonetheless, we were still able to complete the lab.
+
+### Conclusion:
+During this lab, we learned a lot about the environment and atmostphere of Horace Mann. Maybe one day we will be able to use our skills in app development to make our community a better place.
