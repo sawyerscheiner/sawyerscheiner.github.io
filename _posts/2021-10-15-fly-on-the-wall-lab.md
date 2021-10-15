@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Good vs Bad Design
@@ -8,3 +7,4 @@ thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: Lab
 ---
+
