@@ -2,6 +2,7 @@
 layout: post
 title: Individual Project Proposal: Water Fountains at Horace Mann
 subtitle: Sawyer Scheiner
+cover-img: /assets/img/thumb.png
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: Project
