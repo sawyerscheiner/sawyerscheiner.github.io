@@ -8,9 +8,6 @@ share-img: /assets/img/path.jpg
 tags: Project
 ---
 
----
-IMPASTA: IMPASTA
----
 # Individual Project Proposal: Water Fountains at Horace Mann
 
   A problem present in our community at Horace Mann School that I have observed is that the water fountains buttons have been shut off and do not work. The only part of the water fountain that works is the bottle filling nozzle. I understand that this is to promote use of reusable water bottles and to prevent covid from spreading, but I think that this is a problem because not only does this prevent some people from getting water when they need it, but it also increases use of plastic bottles from the cafeteria, which counteracts the intention in the first place to reduce waste of water and plastic. 
