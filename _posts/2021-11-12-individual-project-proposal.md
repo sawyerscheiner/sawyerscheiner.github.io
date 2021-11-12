@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Individual Project Proposal: Water Fountains at Horace Mann
@@ -8,6 +7,8 @@ thumbnail-img: https://www.valleycentral.com/wp-content/uploads/sites/39/2020/07
 share-img: /assets/img/path.jpg
 tags: Project
 ---
+
+
 
 # Individual Project Proposal: Water Fountains at Horace Mann
 
