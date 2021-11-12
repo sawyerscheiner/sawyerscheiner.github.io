@@ -7,6 +7,7 @@ thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: Project
 ---
+s
 
 # Individual Project Proposal: Water Fountains at Horace Mann
 
