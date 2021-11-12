@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Individual Project Proposal: Water Fountains at Horace Mann
+title: Individual Project Proposal - Water Fountains at Horace Mann
 subtitle: Sawyer Scheiner
 cover-img: https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/c/16/c169a30d-722b-5f92-a26c-5ed7017593ed/5a9499a89a7fb.image.jpg?crop=1256%2C1256%2C112%2C0&resize=1256%2C1256&order=crop%2Cresize
 thumbnail-img: https://www.valleycentral.com/wp-content/uploads/sites/39/2020/07/Eb2GAX0WAAA4LhQ.jpg?w=2048&h=1360&crop=1
